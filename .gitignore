@@ -1,0 +1,9 @@
+# Ignore audio files
+*.mp3
+
+# Ignore archive files
+*.zip
+
+venv/*
+
+*.log
